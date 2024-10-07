@@ -226,6 +226,10 @@
 	path = extensions/cpp2
 	url = https://github.com/tsoj/zed-cpp2.git
 
+[submodule "extensions/crystal"]
+	path = extensions/crystal
+	url = https://github.com/crystal-lang-tools/zed-crystal.git
+
 [submodule "extensions/crystal-theme"]
 	path = extensions/crystal-theme
 	url = https://gitlab.com/crystalnetwork-studio/themes/zed-editor.git
@@ -297,6 +301,10 @@
 [submodule "extensions/earthfile"]
 	path = extensions/earthfile
 	url = https://github.com/glehmann/earthfile.zed.git
+
+[submodule "extensions/eiffel-theme"]
+	path = extensions/eiffel-theme
+	url = https://github.com/demiurg/zed-theme-eiffel.git
 
 [submodule "extensions/ejs"]
 	path = extensions/ejs
@@ -382,6 +390,10 @@
 	path = extensions/fsharp
 	url = https://github.com/nathanjcollins/zed-fsharp.git
 
+[submodule "extensions/fsm"]
+	path = extensions/fsm
+	url = https://codeberg.org/reesericci/zed-extension-fsm.git
+
 [submodule "extensions/gdscript"]
 	path = extensions/gdscript
 	url = https://github.com/GDQuest/zed-gdscript.git
@@ -466,6 +478,10 @@
 	path = extensions/gruvbox-material
 	url = https://github.com/tokiory/zed-gruvbox-material.git
 
+[submodule "extensions/hacker-night-vision"]
+	path = extensions/hacker-night-vision
+	url = https://github.com/Takk8IS/hacker-night-vision-theme-for-zed.git
+
 [submodule "extensions/halcyon"]
 	path = extensions/halcyon
 	url = https://github.com/hichemfantar/halcyon-zed.git
@@ -493,6 +509,10 @@
 [submodule "extensions/iceberg"]
 	path = extensions/iceberg
 	url = https://github.com/EFDos/iceberg-zed-theme.git
+
+[submodule "extensions/iceicebergy"]
+	path = extensions/iceicebergy
+	url = https://github.com/jmsdnns/zed-iceicebergy.git
 
 [submodule "extensions/indigo"]
 	path = extensions/indigo
@@ -777,6 +797,10 @@
 [submodule "extensions/nvim-nightfox"]
 	path = extensions/nvim-nightfox
 	url = https://github.com/cange/nightfox.zed.git
+
+[submodule "extensions/oasis"]
+	path = extensions/oasis
+	url = https://github.com/aerendem/oasis-zed-theme
 
 [submodule "extensions/ocean-dark-motifs"]
 	path = extensions/ocean-dark-motifs
@@ -1169,6 +1193,10 @@
 [submodule "extensions/vapor-theme"]
 	path = extensions/vapor-theme
 	url = https://github.com/felipetesc/vapor-theme.git
+
+[submodule "extensions/vercel-theme"]
+	path = extensions/vercel-theme
+	url = https://github.com/NathanBrodin/zed-vercel-theme
 
 [submodule "extensions/verilog"]
 	path = extensions/verilog

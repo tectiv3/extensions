@@ -237,6 +237,10 @@ version = "0.0.1"
 submodule = "extensions/cpp2"
 version = "0.0.1"
 
+[crystal]
+submodule = "extensions/crystal"
+version = "0.0.1"
+
 [crystal-theme]
 submodule = "extensions/crystal-theme"
 version = "0.0.1"
@@ -323,6 +327,10 @@ version = "0.0.1"
 [earthfile]
 submodule = "extensions/earthfile"
 version = "0.1.0"
+
+[eiffel-theme]
+submodule = "extensions/eiffel-theme"
+version = "0.0.1"
 
 [ejs]
 submodule = "extensions/ejs"
@@ -428,6 +436,10 @@ version = "0.0.1"
 submodule = "extensions/fsharp"
 version = "0.0.3"
 
+[fsm]
+submodule = "extensions/fsm"
+version = "0.3.0"
+
 [gdscript]
 submodule = "extensions/gdscript"
 version = "0.4.0"
@@ -446,7 +458,7 @@ version = "0.0.3"
 
 [github-copilot-theme]
 submodule = "extensions/github-copilot-theme"
-version = "0.0.2"
+version = "0.1.0"
 
 [github-dark-default]
 submodule = "extensions/github-dark-default"
@@ -522,6 +534,10 @@ version = "0.0.1"
 submodule = "extensions/gruvbox-material"
 version = "1.0.0"
 
+[hacker-night-vision]
+submodule = "extensions/hacker-night-vision"
+version = "1.0.0"
+
 [halcyon]
 submodule = "extensions/halcyon"
 version = "0.0.5"
@@ -559,6 +575,10 @@ version = "0.0.1"
 [iceberg]
 submodule = "extensions/iceberg"
 version = "0.2.10"
+
+[iceicebergy]
+submodule = "extensions/iceicebergy"
+version = "0.3.14"
 
 [indigo]
 submodule = "extensions/indigo"
@@ -602,7 +622,7 @@ version = "0.1.2"
 
 [just]
 submodule = "extensions/just"
-version = "0.1.2"
+version = "0.1.3"
 
 [kanagawa-themes]
 submodule = "extensions/kanagawa-themes"
@@ -849,6 +869,10 @@ version = "0.0.3"
 submodule = "extensions/nvim-nightfox"
 version = "0.2.0"
 
+[oasis]
+submodule = "extensions/oasis"
+version = "0.0.1"
+
 [ocaml]
 submodule = "extensions/zed"
 path = "extensions/ocaml"
@@ -945,7 +969,7 @@ version = "0.1.0"
 [php]
 submodule = "extensions/zed"
 path = "extensions/php"
-version = "0.2.0"
+version = "0.2.1"
 
 [pica200]
 submodule = "extensions/pica200"
@@ -979,7 +1003,7 @@ version = "0.0.3"
 [proto]
 submodule = "extensions/zed"
 path = "extensions/proto"
-version = "0.1.0"
+version = "0.2.0"
 
 [pug]
 submodule = "extensions/pug"
@@ -1309,6 +1333,10 @@ version = "0.0.2"
 
 [vapor-theme]
 submodule = "extensions/vapor-theme"
+version = "0.0.1"
+
+[vercel-theme]
+submodule = "extensions/vercel-theme"
 version = "0.0.1"
 
 [verilog]
